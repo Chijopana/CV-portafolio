@@ -99,42 +99,47 @@ return (
 </div>
 
 <section id="proyectos" className="centered">
-    <h2>
-      <ProjectIcon /> {mainTexts.proyectos[language]}
-    </h2>
+  <h2>
+    <ProjectIcon /> {mainTexts.proyectos[language]}
+  </h2>
 
-    <div id="carouselExample" className="carousel slide image-container">
-      <div className="carousel-inner">
-        <div className="carousel-item active">
-          <img src="calculadora.jpeg" className="d-block w-100" alt="..." />
-        </div>
-        <div className="carousel-item">
-          <img src="buscapalabras.jpeg" className="d-block w-100" alt="..." />
-        </div>
-        {/* <div className="carousel-item">
-          <img src="elbicho.jpg" className="d-block w-100" alt="..." />
-        </div> */}
+  <div id="carouselExample" className="carousel slide image-container">
+    <div className="carousel-inner">
+      <div className="carousel-item active">
+        <a href="https://github.com/Chijopana/calculadora" target="_blank" rel="noopener noreferrer">
+          <img src="calculadora.jpeg" className="d-block w-100" alt="Calculadora" />
+        </a>
       </div>
-      <button
-        className="carousel-control-prev"
-        type="button"
-        data-bs-target="#carouselExample"
-        data-bs-slide="prev"
-      >
-        <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span className="visually-hidden">Previous</span>
-      </button>
-      <button
-        className="carousel-control-next"
-        type="button"
-        data-bs-target="#carouselExample"
-        data-bs-slide="next"
-      >
-        <span className="carousel-control-next-icon" aria-hidden="true"></span>
-        <span className="visually-hidden">Next</span>
-      </button>
+      <div className="carousel-item">
+        <a href="https://github.com/Chijopana/Buscapalabra" target="_blank" rel="noopener noreferrer">
+          <img src="buscapalabras.jpeg" className="d-block w-100" alt="Buscapalabras" />
+        </a>
+      </div>
+      {/* <div className="carousel-item">
+          <img src="elbicho.jpg" className="d-block w-100" alt="El Bicho" />
+      </div> */}
     </div>
-  </section>
+    <button
+      className="carousel-control-prev"
+      type="button"
+      data-bs-target="#carouselExample"
+      data-bs-slide="prev"
+    >
+      <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span className="visually-hidden">Previous</span>
+    </button>
+    <button
+      className="carousel-control-next"
+      type="button"
+      data-bs-target="#carouselExample"
+      data-bs-slide="next"
+    >
+      <span className="carousel-control-next-icon" aria-hidden="true"></span>
+      <span className="visually-hidden">Next</span>
+    </button>
+  </div>
+</section>
+
 
 
 
