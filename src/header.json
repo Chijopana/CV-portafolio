@@ -1,0 +1,18 @@
+{
+    "title": {
+      "es": "Jose Manuel Blondel Moya",
+      "en": "Jose Manuel Blondel Moya",
+      "cat": "Jose Manuel Blondel Moya"
+    },
+    "subtitle": {
+      "es": "Experto en desarrollo web con experiencia en React.js, Node.js y Express. También tengo habilidades en diseño UI/UX y SEO.",
+      "en": "Expert in web development with experience in React.js, Node.js, and Express. I also have skills in UI/UX design and SEO.",
+      "cat": "Expert en desenvolupament web amb experiència en React.js, Node.js i Express. També tinc habilitats en disseny UI/UX i SEO."
+    },
+    "downloadButton": {
+      "es": "Descargar CV en PDF",
+      "en": "Download CV as PDF",
+      "cat": "Baixa el CV com a PDF"
+    }
+  }
+  

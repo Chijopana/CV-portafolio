@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "^5.15.15",
+    "@olton/metroui": "^5.0.5",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "csshake": "^1.7.0",
+    "express": "^4.19.2",
+    "materialize-css": "^1.0.0-rc.2",
+    "nodemailer": "^6.9.13",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.10.8",
+    "swiper": "^11.1.1"
+  },
+  "scripts": {
+    "start": "concurrently \"npm run start-server\" \"npm run start-client\" ",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start-server": "node server.js",
+    "start-client": "react-scripts start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

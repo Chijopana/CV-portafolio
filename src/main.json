@@ -1,0 +1,207 @@
+{
+  "experiencia": {
+    "es": "Experiencia",
+    "en": "Experience",
+    "cat": "Experiència"
+  },
+  "experienciaContent": {
+    "es": [
+      {
+        "title": "Repartidor",
+        "description": "2024 - Glovo / Uber"
+      },
+      {
+        "title": "Repartidor",
+        "description": "2023 - Just Eat"
+      },
+      {
+        "title": "Camarero",
+        "description": "2023 - Goiko"
+      }
+    ],
+    "en": [
+      {
+        "title": "Delivery Driver",
+        "description": "2024 - Glovo / Uber"
+      },
+      {
+        "title": "Delivery Driver",
+        "description": "2023 - Just Eat"
+      },
+      {
+        "title": "Waiter",
+        "description": "2023 - Goiko"
+      }
+    ],
+    "cat": [
+      {
+        "title": "Repartidor",
+        "description": "2024 - Glovo / Uber"
+      },
+      {
+        "title": "Repartidor",
+        "description": "2023 - Just Eat"
+      },
+      {
+        "title": "Cambrer",
+        "description": "2023 - Goiko"
+      }
+    ]
+  }
+,
+  "estudios": {
+    "es": "Estudios",
+    "en": "Education",
+    "cat": "Estudis"
+  },
+  "estudiosContent": {
+    "es": [
+      {
+        "title": "Bootcamp de Programación IPIA",
+        "description": "2024 - FundacionEsplai"
+      },
+      {
+        "title": "Instructor de Fitness",
+        "description": "2024 - FiveStars"
+      },
+      {
+        "title": "Bachiller en Ciencias y Sociales",
+        "description": "2019 - Instituto Maria Auxiliadora II"
+      }
+    ],
+    "en": [
+      {
+        "title": "Bootcamp in Programming IPIA",
+        "description": "2024 - FundacionEsplai"
+      },
+      {
+        "title": "Fitness Instructor",
+        "description": "2024 - FiveStars"
+      },
+      {
+        "title": "High School Diploma in Sciences and Social Studies",
+        "description": "2019 - Instituto Maria Auxiliadora II"
+      }
+    ],
+    "cat": [
+      {
+        "title": "Bootcamp de Programació IPIA",
+        "description": "2024 - FundacionEsplai"
+      },
+      {
+        "title": "Instructor de Fitness",
+        "description": "2024 - FiveStars"
+      },
+      {
+        "title": "Batxiller en Ciències i Socials",
+        "description": "2019 - Instituto Maria Auxiliadora II"
+      }
+    ]
+  }
+
+  ,
+  "habilidades": {
+    "es": "Habilidades",
+    "en": "Skills",
+    "cat": "Habilitats"
+  },
+  "habilidadesBlandas": {
+    "es": "Habilidades blandas",
+    "en": "Soft Skills",
+    "cat": "Habilitats suaus"
+  },
+  "habilidadesBlandasContent": {
+    "es": {
+      "Trabajo en equipo": "Trabajo en equipo",
+      "Comunicación efectiva": "Comunicación efectiva",
+      "Resolución de problemas": "Resolución de problemas"
+    },
+    "en": {
+      "Trabajo en equipo": "Teamwork",
+      "Comunicación efectiva": "Effective communication",
+      "Resolución de problemas": "Problem-solving"
+    },
+    "cat": {
+      "Trabajo en equipo": "Treball en equip",
+      "Comunicación efectiva": "Comunicació efectiva",
+      "Resolución de problemas": "Resolució de problemes"
+    }
+  },
+  "habilidadesTecnicas": {
+    "es": "Habilidades técnicas",
+    "en": "Technical Skills",
+    "cat": "Habilitats tècniques"
+  },
+  "habilidadesTecnicasContent": {
+    "es": {
+      "Desarrollo web": "Desarrollo web",
+      "Programación en JavaScript": "Programación en JavaScript",
+      "Diseño de interfaces": "Diseño de interfaces"
+    },
+    "en": {
+      "Desarrollo web": "Web development",
+      "Programación en JavaScript": "JavaScript programming",
+      "Diseño de interfaces": "Interface design"
+    },
+    "cat": {
+      "Desarrollo web": "Desenvolupament web",
+      "Programación en JavaScript": "Programació en JavaScript",
+      "Diseño de interfaces": "Disseny d'interfícies"
+    }
+  },
+  "proyectos": {
+    "es": "Proyectos",
+    "en": "Projects",
+    "cat": "Projectes"
+  },
+  "proyectosContent": {
+    "es": "Descripción del proyecto...",
+    "en": "Description of the project...",
+    "cat": "Descripció del projecte..."
+  },
+  "contacto": {
+    "es": "Contacto",
+    "en": "Contact",
+    "cat": "Contacte"
+  },
+  "placeholderNombre": {
+    "es": "Nombre",
+    "en": "Name",
+    "cat": "Nom"
+  },
+  "placeholderEmail": {
+    "es": "Correo electrónico",
+    "en": "Email",
+    "cat": "Correu electrònic"
+  },
+  "placeholderMensaje": {
+    "es": "Mensaje",
+    "en": "Message",
+    "cat": "Missatge"
+  },
+  "buttonText": {
+    "es": "Enviar",
+    "en": "Send",
+    "cat": "Enviar"
+  },
+  "alertMessage": {
+    "es": "Formulario enviado correctamente.",
+    "en": "Form submitted successfully.",
+    "cat": "Formulari enviat correctament."
+  },
+  "alertNameError": {
+    "es": "Por favor ingresa tu nombre.",
+    "en": "Please enter your name.",
+    "cat": "Si us plau, introdueix el teu nom."
+  },
+  "alertNameFormatError": {
+    "es": "Por favor ingresa un nombre válido (solo letras y espacios).",
+    "en": "Please enter a valid name (letters and spaces only).",
+    "cat": "Si us plau, introdueix un nom vàlid (només lletres i espais)."
+  },
+  "alertEmailError": {
+    "es": "Por favor ingresa un correo electrónico válido.",
+    "en": "Please enter a valid email address.",
+    "cat": "Si us plau, introdueix una adreça de correu electrònic vàlida."
+  }
+}

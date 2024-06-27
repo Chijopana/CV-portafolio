@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "es": {
+      "inicio": "Inicio",
+      "experiencia": "Experiencia",
+      "estudios": "Estudios",
+      "habilidades": "Habilidades",
+      "proyectos": "Proyectos",
+      "contacto": "Contacto"
+    },
+    "en": {
+      "inicio": "Home",
+      "experiencia": "Experience",
+      "estudios": "Education",
+      "habilidades": "Skills",
+      "proyectos": "Projects",
+      "contacto": "Contact"
+    },
+    "cat": {
+      "inicio": "Inici",
+      "experiencia": "Experiència",
+      "estudios": "Estudis",
+      "habilidades": "Habilitats",
+      "proyectos": "Projectes",
+      "contacto": "Contacte"
+    }
+  }
+}
